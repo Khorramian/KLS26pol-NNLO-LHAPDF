@@ -1,4 +1,4 @@
-# KLS26 Polarized PDF Set
+KLS26 Polarized PDF Set
 
 Set: KLS26pol_MultHT_Fixed_a3_a8
 
