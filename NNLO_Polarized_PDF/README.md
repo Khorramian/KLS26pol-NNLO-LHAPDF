@@ -1,1 +1,0 @@
-NNLO polarized PDF sets.
