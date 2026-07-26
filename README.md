@@ -38,8 +38,3 @@ Four polarized PDF ensembles are provided:
 | KLS26pol_AddHT_Free_a3_a8 | Additive HT | \(a_3,a_8\) treated as free parameters |
 | KLS26pol_MultHT_Free_a3_a8 | Multiplicative HT | \(a_3,a_8\) treated as free parameters |
 
-
-
-
-<img width="468" height="645" alt="image" src="https://github.com/user-attachments/assets/87b2c3de-0598-4d13-9297-9826f82fae29" />
-
