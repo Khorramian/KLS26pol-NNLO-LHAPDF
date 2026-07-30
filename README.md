@@ -24,7 +24,7 @@ higher-twist corrections and axial-charge constraints"
 
 (to appear in Physical Review D)
 
-arXiv:XXXX.XXXXX
+arXiv:2607.25001 [hep-ph]
 
 
 ## Available PDF Sets
