@@ -22,7 +22,6 @@ The PDF sets correspond to the NNLO QCD analysis presented in:
 "NNLO determination of polarized parton distribution functions with
 higher-twist corrections and axial-charge constraints"
 
-(to appear in Physical Review D)
 
 arXiv:2607.25001 [hep-ph]
 
